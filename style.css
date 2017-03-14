@@ -4,13 +4,11 @@ font: 16px/24px Andalus, Baskerville Old Face, Arial;}
 
 /*Структура сайта*/
 div.header{
-height: 150px; 
+height: 170px; 
 background: url(images/greyzz_@2X.png);}
-div.mid{margin: 0 auto;}
 
 /*Шапка сайта*/
 div.title{
-margin: 0 710px;
 font: 40px Andalus, Baskerville Old Face, Arial; 
 float: left; 
 height: 150px; 
