@@ -1,0 +1,27 @@
+body{
+background: url(images/greyzz.png); 
+font: 16px/24px Andalus, Baskerville Old Face, Arial;}
+
+/*Структура сайта*/
+div.header{
+height: 150px; 
+background: url(images/greyzz_@2X.png);}
+div.mid{margin: 0 auto;}
+
+/*Шапка сайта*/
+div.title{
+margin: 0 710px;
+font: 40px Andalus, Baskerville Old Face, Arial; 
+float: left; 
+height: 150px; 
+line-height: 150px;}
+div.img{float: right;}
+
+/*Содержание*/
+div.content{
+ margin: 0 20px; 
+ font: 22px Andalus, Baskerville Old Face, Arial; 
+ padding: 20px 40px; 
+ text-align: justify; 
+}
+
