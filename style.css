@@ -1,11 +1,11 @@
 body{
-background: url(images/greyzz.png); 
+background: url(greyzz.png); 
 font: 16px/24px Andalus, Baskerville Old Face, Arial;}
 
 /*Структура сайта*/
 div.header{
 height: 170px; 
-background: url(images/greyzz_@2X.png);}
+background: url(greyzz_@2X.png);}
 
 /*Шапка сайта*/
 div.title{
